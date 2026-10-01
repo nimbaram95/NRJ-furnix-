@@ -1,2 +1,2 @@
-# NRJ-furnix-
+# NRJ-furnix
 nrj-furnix furniture website 
